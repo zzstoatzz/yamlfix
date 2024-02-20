@@ -142,6 +142,7 @@ dependencies = [
     # https://github.com/flakeheaven/flakeheaven/issues/132
     "flake8>=4.0.1,<5.0.0",
     "pyflakes<2.5.0",
+    "pydantic>=2.6.1",
 ]
 
 [build-system]
